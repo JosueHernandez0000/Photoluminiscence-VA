@@ -44,7 +44,7 @@ PL VA 1.0.1/
 |
 ├── README.txt             # Documentation for the project.
 ├── LICENSE     
-└── PL_compare.exe      # Standalone .exe file
+└── PL_VA_v1.0.0.exe      # Standalone .exe file
 ```
 
 3. **Run the .exe file**
